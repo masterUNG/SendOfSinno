@@ -97,6 +97,12 @@ flutter:
           weight: 800
         - asset: assets/fonts/Poppins-Black.ttf
           weight: 900
+    - family: Kanit
+      fonts:
+        - asset: assets/fonts/Kanit-Regular.ttf
+    # - family: Charm
+    #   fonts:
+    #     - asset: assets/fonts/Charm_Regular.ttf
   #   - family: Trajan Pro
   #     fonts:
   #       - asset: assets/fonts/TrajanPro.ttf
